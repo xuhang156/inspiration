@@ -10,3 +10,5 @@
 > 3. 开启端口权限：firewall-cmd --permanent --zone=public --add-port=8001/tcp
 > 4. 如果没有 firewall-cmd 则装一下：apt install firewalld
 > 5. 确保云服务上相应的安全组规则也对此端口开放后重启云服务
+
+前端采用vue进行开发，文档地址：https://v3.cn.vuejs.org/guide/introduction.html
